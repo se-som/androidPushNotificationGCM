@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android_push_notification.iml" filepath="$PROJECT_DIR$/Android_push_notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidPushNotificationGCM.iml" filepath="$PROJECT_DIR$/androidPushNotificationGCM.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -23,8 +23,9 @@ public class GcmMessageHandler extends GcmListenerService {
 
     @Override
     public void onMessageReceived(String from, Bundle data) {
-        String message = data.getString("message");
         Log.i("On", "success="+data.toString());
+        String message = data.getString("message");
+
         createNotification(from, message);
     }
 
